@@ -5,9 +5,9 @@ This repository contains the projects I've completed at 42 School. Each project 
 ## Project List
 
 1. [Libft](./libft/README.md) - A library of basic C functions.
-2. [Get_next_line](./getnextline/README.md) - A function that reads a line terminated by a newline character from a file descriptor.
+2. [Get_next_line](./GetNextLine/README.md) - A function that reads a line terminated by a newline character from a file descriptor.
 3. [ft_printf](./ft_printf/README.md) - A string formatting function similar to the printf function from the C standard library.
-4. [pipex](./Pipex/README.md) - A program that simulates the operation of the pipe operator in Unix command-line.
+4. [pipex](./pipex/README.md) - A program that simulates the operation of the pipe operator in Unix command-line.
 5. [So_long](./So_long/README.md) - A simple game using the miniLibX graphic library.
 
 ## Contributions
